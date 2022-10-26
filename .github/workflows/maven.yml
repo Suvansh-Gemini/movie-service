@@ -30,4 +30,4 @@ jobs:
         environment_name: Movieservice-env
         version_label: ${{github.SHA}}
         region: us-east-1
-        deployment_package: /home/runner/work/movie-service/target/movie-service-0.0.1-SNAPSHOT.jar
+        deployment_package: /home/runner/work/movie-service/movie-service/target/movie-service-0.0.1-SNAPSHOT.jar
